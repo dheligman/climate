@@ -1,0 +1,35 @@
+"CN","INVYR","P3_OZONE_IND","STATECD","STATEAB","STATENM","RSCD","ANN_INVENTORY","NOTES","CREATED_BY","CREATED_DATE","CREATED_IN_INSTANCE","MODIFIED_BY","MODIFIED_DATE","MODIFIED_IN_INSTANCE","CYCLE","SUBCYCLE"
+"19098950010661",1991,"N",39,"OH","Ohio",24,"N","Periodic inventory FOR CYCLE=4 AND SUBCYCLE=0.","",2003-10-03,"10661","",2004-09-27,"10538",4,0
+"159475157010661",1997,"Y",39,"OH","Ohio",24,"Y","Ozone survey record; independent sample from standard survey.","",2008-06-16,"10661","",2011-01-03,"10661",4,1
+"167774207010661",1998,"Y",39,"OH","Ohio",24,"Y","Ozone survey record; independent sample from standard survey.","",2008-10-09,"10661","",2011-01-03,"10661",5,1
+"167774206010661",1999,"Y",39,"OH","Ohio",24,"Y","Ozone survey record; independent sample from standard survey.","",2008-10-09,"10661","",2011-01-03,"10661",6,1
+"159471099010661",2000,"Y",39,"OH","Ohio",24,"Y","Ozone survey record; independent sample from standard survey.","",2008-06-16,"10661","",2011-01-03,"10661",7,1
+"59779957010538",2001,"N",39,"OH","Ohio",24,"Y","Cycle 5 subcycle 1 is not used in current estimates for years 2007 and after.","",2005-12-06,"10538","",2010-12-26,"10661",5,1
+"159470352010661",2001,"Y",39,"OH","Ohio",24,"Y","Ozone survey record; independent sample from standard survey.","",2008-06-16,"10661","",2011-01-03,"10661",8,1
+"59805631010538",2002,"N",39,"OH","Ohio",24,"Y","Cycle 5 subcycle 2 is not used in current estimates for years 2008 and after.","",2005-12-06,"10538","",2010-12-26,"10661",5,2
+"159469591010661",2002,"Y",39,"OH","Ohio",24,"Y","Ozone survey record; independent sample from standard survey.","",2008-06-16,"10661","",2011-01-03,"10661",9,1
+"59833932010538",2003,"N",39,"OH","Ohio",24,"Y","Cycle 5 subcycle 3 is not used in current estimates for years 2009 and after.","",2005-12-06,"10538","",2010-12-26,"10661",5,3
+"54164361010538",2003,"Y",39,"OH","Ohio",24,"Y","Ozone survey record; independent sample from standard survey.","",2005-03-04,"10538","",2011-01-03,"10661",10,1
+"59862114010538",2004,"N",39,"OH","Ohio",24,"Y","Annual 57% 2001-2004 current area and volume; ","",2005-12-06,"10538","",2009-12-14,"10661",5,4
+"63139656010538",2004,"Y",39,"OH","Ohio",24,"Y","Ozone survey record; independent sample from standard survey.","",2005-03-04,"10538","",2011-01-03,"10661",11,1
+"66398894010538",2005,"N",39,"OH","Ohio",24,"Y","Annual 71% 2001-2005 current area and volume; ","",2007-02-20,"10538","",2009-12-14,"10661",5,5
+"63139669010538",2005,"Y",39,"OH","Ohio",24,"Y","Ozone survey record; independent sample from standard survey.","",2005-03-04,"10538","",2011-01-03,"10661",12,1
+"72739041010538",2006,"N",39,"OH","Ohio",24,"Y","Annual 100% 2001-2006 current area and volume;","",2007-06-20,"10538","",2010-12-26,"10661",5,6
+"65375954010538",2006,"Y",39,"OH","Ohio",24,"Y","Ozone survey record; independent sample from standard survey.","",2007-01-26,"10538","",2011-01-03,"10661",13,1
+"76387292010538",2007,"N",39,"OH","Ohio",24,"Y","Annual 100% 2002-2007 current area and volume; 20% annual remeasurement complete; GRM estimates for 20% annual remeasurement.","",2007-11-05,"10538","",2009-12-02,"10661",6,1
+"159227719010661",2007,"Y",39,"OH","Ohio",24,"Y","Ozone survey record; independent sample from standard survey.","",2008-06-16,"10661","",2011-01-03,"10661",14,1
+"76387293010538",2008,"N",39,"OH","Ohio",24,"Y","Annual 100% 2003-2008 current area and volume; 40% annual remeasurement complete; GRM estimates for 40% annual remeasurement.","",2007-11-05,"10538","",2009-12-02,"10661",6,2
+"172086041010661",2008,"Y",39,"OH","Ohio",24,"Y","Ozone survey record; independent sample from standard survey.","",2008-12-05,"10661","",2011-01-03,"10661",15,1
+"144953178010661",2009,"N",39,"OH","Ohio",24,"Y","Annual 100% 2004-2009 current area and volume; 60% annual remeasurement complete; GRM estimates for 60% annual remeasurement.","",2008-05-16,"10661","",2010-12-26,"10661",6,3
+"172086065010661",2009,"Y",39,"OH","Ohio",24,"Y","Ozone survey record; independent sample from standard survey.","",2008-12-05,"10661","",2011-01-03,"10661",16,1
+"168855237010661",2010,"N",39,"OH","Ohio",24,"Y","Annual 100% 2006-2010 current area and volume; 80% annual remeasurement complete; GRM estimates for 80% annual remeasurement.","",2008-10-27,"10661","",2011-05-12,"10661",6,4
+"172086089010661",2010,"Y",39,"OH","Ohio",24,"Y","Ozone survey record; independent sample from standard survey.","",2008-12-05,"10661","",2011-01-03,"10661",17,1
+"222443155010661",2011,"N",39,"OH","Ohio",24,"Y","Annual 100% 2007-2011 current area and volume; 100% annual remeasurement complete; GRM estimates for 100% annual remeasurement.","",2010-01-11,"10661","",2012-05-21,"20004",6,5
+"247063114010661",2012,"N",39,"OH","Ohio",24,"Y","Annual:100% 2008-2012 current area and volume; 100% growth removals and mortality","",2011-03-28,"10661","",2013-07-31,"20004",7,1
+"15819142020004",2013,"N",39,"OH","Ohio",24,"Y","Annual:100% 2009-2013 current area and volume; 100% growth removals and mortality","",2012-01-23,"20004","",2014-08-15,"489998",7,2
+"171867239020004",2014,"N",39,"OH","Ohio",24,"Y","; Survey modified from 14 subpanels to 10 subpanels on 02-DEC-13 by MAH; Annual: 2009-2014, still 100% for the evaluation, cjb 18Jul15;","",2013-01-30,"20004","",2015-07-18,"489998",7,3
+"221592177020004",2015,"N",39,"OH","Ohio",24,"Y","Annual:100% 2010-2015 current area and volume, 100% growth removals and mortality;","",2013-12-02,"20004","",2016-05-05,"489998",7,4
+"306265997489998",2016,"N",39,"OH","Ohio",24,"Y","OH 2016:includes 10 subpanels from 2011-2016. 3x intensification for NFS land.","",2015-02-20,"489998","",2017-05-23,"489998",7,5
+"362496153489998",2017,"N",39,"OH","Ohio",24,"Y","OH 2017:includes 10 subpanels from 2011-2017. 3x intensification for NFS land. Annual:100% 2011-2017 current area and volume, 100% growth removals and mortality;","",2015-11-30,"489998","",2018-06-06,"126144",7,6
+"444151630489998",2018,"N",39,"OH","Ohio",24,"Y","OH 2018:includes 10 subpanels from 2012-2018. 3x intensification for NFS land. Annual:100% 2011-2017 current area and volume, 100% growth removals and mortality;","",2017-01-17,"489998","",2019-06-14,"126144",7,7
+"444152766489998",2018,"N",39,"OH","Ohio",24,"Y","OH 2018:includes 10 subpanels from 2012-2018. 3x intensification for NFS land. Annual:100% 2011-2017 current area and volume, 100% growth removals and mortality;","",2017-01-17,"489998","",2019-06-14,"126144",8,1
