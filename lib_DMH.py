@@ -14,7 +14,9 @@ def gsodquery(year,stations, db):
                 stn AS Station_number, 
                 year AS Year, 
                 mo AS Month, 
-                AVG(temp) as Mean_temp
+                AVG(temp) as Mean_temp,
+                AVG(dewp) as Mean_dwp,
+                AVG(prcp) as Mean_prcp
             FROM 
                 {var2} 
             WHERE 
@@ -23,6 +25,25 @@ def gsodquery(year,stations, db):
                 stn, 
                 year, 
                 mo
+        """
+    return db.query_to_pandas_safe(query, max_gb_scanned=10)
+
+def gsodqueryyear(year,stations, db):
+    var2 = 'bigquery-public-data.noaa_gsod.gsod'+str(year)
+    query = f"""
+            SELECT 
+                stn AS Station_number, 
+                year AS Year, 
+                AVG(temp) as Mean_temp,
+                AVG(dewp) as Mean_dwp,
+                AVG(prcp) as Mean_prcp
+            FROM 
+                {var2} 
+            WHERE 
+                Stn in {stations} AND NOT dewp = 9999.9 AND NOT prcp = 99.99 AND NOT temp = 9999.9
+            GROUP BY
+                stn, 
+                year 
         """
     return db.query_to_pandas_safe(query, max_gb_scanned=10)
 
